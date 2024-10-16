@@ -1,1 +1,1 @@
-# Projects
+# This repository contains the list & the details of the projects that I have undertaken and successfully completed.
